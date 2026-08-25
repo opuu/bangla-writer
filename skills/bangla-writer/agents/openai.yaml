@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bangla Writer"
+  short_description: "Write fluent, audience-aware Bengali text"
+  default_prompt: "Use $bangla-writer to rewrite this text as natural Bengali for the intended audience."
